@@ -10,5 +10,3 @@ def create_project_hash
 
   binding.pry
 end
-
-Scraper.new.get_page
