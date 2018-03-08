@@ -18,5 +18,3 @@ end
 
 
 create_project_hash
-
-Scraper.new.get_page
